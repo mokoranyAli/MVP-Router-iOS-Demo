@@ -7,3 +7,20 @@
 //
 
 import Foundation
+extension UserDetailsVc: UserDetailsView {
+    
+    
+    func displayName(name: String) {
+        U_NameLabel.text = name
+    }
+    
+    func displayEmail(email: String) {
+        U_EmailLabel.text = email
+    }
+    
+    func displayAddress(address: String) {
+        U_AddressLabel.text = address
+    }
+    
+    
+}
