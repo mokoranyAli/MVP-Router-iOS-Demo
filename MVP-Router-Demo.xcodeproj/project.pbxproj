@@ -162,12 +162,12 @@
 			isa = PBXGroup;
 			children = (
 				20D3BC4522EB8FE900F2108C /* User Details Scenario */,
-				200792AF22EB80DB008AC8AC /* User Sceario */,
+				200792AF22EB80DB008AC8AC /* User Scenario */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
 		};
-		200792AF22EB80DB008AC8AC /* User Sceario */ = {
+		200792AF22EB80DB008AC8AC /* User Scenario */ = {
 			isa = PBXGroup;
 			children = (
 				20D3BC5122EBC1E000F2108C /* Router */,
@@ -175,7 +175,7 @@
 				200792B322EB810D008AC8AC /* User Presenter */,
 				200792B022EB80EA008AC8AC /* Model */,
 			);
-			path = "User Sceario";
+			path = "User Scenario";
 			sourceTree = "<group>";
 		};
 		200792B022EB80EA008AC8AC /* Model */ = {
