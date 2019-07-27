@@ -8,6 +8,7 @@
 
 import Foundation
 extension UserDetailsVc: UserDetailsView {
+//    var presenter: UserDetailsVCPresenter?
     
     
     func displayName(name: String) {
